@@ -12,23 +12,23 @@
 </h1>
 <b> About me:</b>
 </br>
-Hi, I'm Srishti having an experience of 5+ years in Devops,
+Hi, I'm Vikrant having an experience of 4+ years in Full Stack Development ,
 </br>
 </br>
 
 <b>Job Roles:</b>
 <br>
-I’m interested in designing solutions, Architect the project and provide technical solutions
+I’m interested in full stack web development designing solutions, Architect the project and provide technical solutions.
 </br>
-</br>
+</br>,
 <b>Tech Stack and Expertise</b></br>
-Expertise: Devops, 
+Expertise: Full Stack Javascript Developer, 
 </br>
 </br>
 
 <b>How to connect with me</b>
 </br>
-Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">srishti.p@clixlogix.net</a>
+Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">vikrant.gupta@clixlogix.net</a>
 </br>
 </br>
 <b>Statics:</b>
