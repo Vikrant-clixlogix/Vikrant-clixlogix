@@ -8,7 +8,7 @@
 </a>
 </p>
 <h1 align="center">
-  <b>Srishti Pokhriyal</b>
+  <b>Vikrant Gupta</b>
 </h1>
 <b> About me:</b>
 </br>
